@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blue Formal shirt",
+      "description": "Formal shirts",
+      "price": 9
+    },
+    {
+      "id": 2,
+      "name": "Blue Formal shirt",
+      "description": "Formal shirts",
+      "price": 9
+    },
+    {
+      "id": 3,
+      "name": "Blue Formal shirt",
+      "description": "Formal shirts",
+      "price": 9
+    },
+    {
+      "id": 4,
+      "name": "Blue Formal shirt",
+      "description": "Formal shirts",
+      "price": 9
+    },
+    {
+      "id": 5,
+      "name": "Blue Formal shirt",
+      "description": "Formal shirts",
+      "price": 9
+    },
+    {
+      "id": 6,
+      "name": "test",
+      "description": "test",
+      "price": "test"
+    },
+    {
+      "id": 7,
+      "name": "test",
+      "description": "test",
+      "price": "test"
+    },
+    {
+      "id": 8,
+      "name": "test",
+      "description": "test",
+      "price": "test"
+    },
+    {
+      "id": 9,
+      "name": "test",
+      "description": "test",
+      "price": "test"
+    },
+    {
+      "id": 10,
+      "name": "test",
+      "description": "test",
+      "price": "test"
+    },
+    {
+      "id": 11,
+      "name": "test",
+      "description": "test",
+      "price": "test"
+    }
+  ]
+}
